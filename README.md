@@ -16,7 +16,7 @@ Software Engineer for hire:
 
 But also have experience with C#, Java, Python, Lua & PHP.
 
-Notable work:
+Notable recent work:
 
 - [RCAX](https://rcax.io) (NFT/Blockchain/CryptoCurrency/Android/iOS)
 - [Torrust](https://torrust.com) (BitTorrent Tracker/Index)
