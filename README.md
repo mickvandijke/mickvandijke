@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=rust,vue,js,ts)](https://skillicons.dev)
+
 Software Engineer for hire:
 
 - Rust Developer (3+ Years)
