@@ -3,7 +3,7 @@
 Software Engineer for hire:
 
 - Rust Developer (3+ Years)
-- Vue Developer (7+ Years)
+- Vue Developer (6+ Years)
 - JavaScript Developer (10+ Years)
 - Nodejs Developer (8+ Years)
 - TypeScript Developer (2+ Years)
